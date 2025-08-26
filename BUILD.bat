@@ -1,2 +1,2 @@
 @echo off
-pyinstaller --onefile --noconsole --icon=defo.ico neveros.py
+pyinstaller --onefile --noconsole --icon=defo.ico main.py

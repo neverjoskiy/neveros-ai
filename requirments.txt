@@ -1,6 +1,0 @@
-pyttsx3
-pynput
-sounddevice
-scipy
-python-telegram-bot
-Flask

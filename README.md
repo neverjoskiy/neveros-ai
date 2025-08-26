@@ -19,7 +19,7 @@ CLONE THE REPOSITORY:
 ```
 Bash
 
-git clone https://github.com/yourusername/nevoros.git
+git clone https://github.com/neverjoskiy/neveros-ai.git
 cd nevoros
 INSTALL LIBRARIES:
 ```
@@ -97,7 +97,7 @@ Thanks for using NEVOROS! I welcome your suggestions and contributions to the pr
 ```
 Bash
 
-git clone https://github.com/yourusername/nevoros.git
+git clone https://github.com/neverjoskiy/neveros-ai.git
 cd nevoros
 ```
 УСТАНОВИТЕ БИБЛИОТЕКИ:

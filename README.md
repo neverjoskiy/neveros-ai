@@ -16,16 +16,18 @@ NEVOROS is a multi-functional desktop application built with Python that combine
 To run NEVOROS, you'll need Python 3.8+ and a few libraries.
 
 CLONE THE REPOSITORY:
-
+```
 Bash
 
 git clone https://github.com/yourusername/nevoros.git
 cd nevoros
 INSTALL LIBRARIES:
-
+```
+```
 Bash
 
 pip install -r requirements.txt
+```
 # ⚙️ SETUP:
 Create a Telegram bot with BotFather to get your TOKEN.
 
@@ -38,10 +40,12 @@ Install a program like VB-CABLE Virtual Audio Device to play audio through a vir
 # 🕹️ USAGE
 LAUNCH
 Run the application from the command line:
-
+```
 Bash
 
 python main.py
+```
+
 MODES OF OPERATION
 
 GUI: A small window will appear, showing the status and the text being spoken.
@@ -90,16 +94,18 @@ Thanks for using NEVOROS! I welcome your suggestions and contributions to the pr
 Чтобы запустить NEVOROS, вам понадобится Python 3.8+ и несколько библиотек.
 
 КЛОНИРУЙТЕ РЕПОЗИТОРИЙ:
-
+```
 Bash
 
 git clone https://github.com/yourusername/nevoros.git
 cd nevoros
+```
 УСТАНОВИТЕ БИБЛИОТЕКИ:
-
+```
 Bash
 
 pip install -r requirements.txt
+```
 
 # НАСТРОЙКА:
 
